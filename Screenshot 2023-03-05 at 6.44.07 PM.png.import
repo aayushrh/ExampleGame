@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Screenshot 2023-03-05 at 6.44.07 PM.png-94b6a906f59b4701ad7c8d3918ae1160.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Screenshot 2023-03-05 at 6.44.07 PM.png"
+dest_files=[ "res://.import/Screenshot 2023-03-05 at 6.44.07 PM.png-94b6a906f59b4701ad7c8d3918ae1160.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
